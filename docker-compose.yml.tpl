@@ -4,3 +4,4 @@ services:
     build: .
     environment:
       - BOT_TOKEN=XXX
+      - WEATHER_API_KEY=XXX
