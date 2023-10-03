@@ -131,3 +131,4 @@ dist
 
 # Own
 docker-compose.yml
+run.ps1
